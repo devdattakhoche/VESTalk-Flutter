@@ -1,3 +1,15 @@
+
+
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Language][Language-shield]][Language-url]
+[![Activity][activity-shield]][activity-url]
+[![Version][version-shield]][version-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 # social_network_flutter
 
 A new Flutter project by aniket.
