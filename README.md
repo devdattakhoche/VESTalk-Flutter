@@ -222,7 +222,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-AmplifyTeam - [Mail](amplifyteam1234@gmail.com) - amplifyteam1234@gmail.com
+VesTalkTeam - [Mail](amplifyteam1234@gmail.com) - amplifyteam1234@gmail.com
 
 Project Link: [https://github.com/devdattakhoche/VESTalk-Flutter](https://github.com/devdattakhoche/VESTalk-Flutter)
 
