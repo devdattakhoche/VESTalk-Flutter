@@ -14,15 +14,11 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/AppBar/applogo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h2 align="center">VesTalk</h2>
 
   <p align="center">
-    An awesome Platform for listening songs.
+    An awesome Platform for connecting with VESIT Students
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -37,7 +33,7 @@
 
 
 <p align="center">
-  <img width="640" height="331" src="https://drive.google.com/file/d/1zcjOBsls6IUccZm_TnBtpjeU68OmQzgz/view?usp=sharing">
+  <img src="images/AppBar/applogo.png">
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -59,7 +55,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![image](https://user-images.githubusercontent.com/49261633/80867197-6e3f5b00-8cb0-11ea-8e62-b9ddb2ea6533.png)
+
+<p align="center">
+  <img width="640" height="1000" src="https://user-images.githubusercontent.com/49261633/156686225-fb79051b-df61-4d2f-96ce-93299d42076b.png">
+</p>
+
+
 
 
 There are many great applications available on GitHub, however, this can be counted as one them. We wanted to make an app that would connect VESIT students and teachers, therefore we used flutter and firebase to do it, which is hell of a task.
